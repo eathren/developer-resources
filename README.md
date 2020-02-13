@@ -127,6 +127,19 @@ General Resources
 A very well put together roadmap to showcase the skills  to succeed and thrive in development nowadays. 
 [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
+**Programming Book Collections (and pdfs)**
+
+ - [https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+ - [https://github.com/tpn/pdfs](https://github.com/tpn/pdfs)
+
+
+**Communities**
+
+ - **Reddit-based**
+	 - [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
+	 - [https://www.reddit.com/r/webdev/](https://www.reddit.com/r/webdev/)
+	 - [https://www.reddit.com/r/learnjavascript/](https://www.reddit.com/r/learnjavascript/)
+
 **CanIUse**: CanIUse shows whether how much an item or feature of a language is supported by modern browsers. Also the dissapointing reason why I still don't use css grid (Come on last 7% of the web population that have browsers that don't support grid, get your act together!)
 [https://caniuse.com/#feat=flexbox](https://caniuse.com/#feat=flexbox)
 
@@ -174,7 +187,7 @@ Say it with me. "Oooh. Pretty". You can set these as backgrounds, or pretty much
 
 Test Driven Development
 ---
-TDD is awesome. Use it whenever you can. Tests can be frustrating to write, or take a while, but having an option to just run your tests from the commandline to see if new changes broke anything (or everything) is pretty much as close to Nirvana that I've found in dev work.
+TDD is awesome. Use it whenever you can. Tests can be frustrating to write, or take a while, but having an option to just run your tests from the command line to see if new changes broke anything (or everything) is pretty much as close to Nirvana that I've found in dev work.
 
  - [https://docs.djangoproject.com/en/3.0/topics/testing/](https://docs.djangoproject.com/en/3.0/topics/testing/)
  - [https://testingjavascript.com/](https://testingjavascript.com/)
