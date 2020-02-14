@@ -1,5 +1,5 @@
 # Developer Resources 
-A compiled list of nearly everything I've found in my time as a software developer. Webdev, webapps, languages, courses, and information. 
+A compiled list of nearly everything I've found in my time as a software developer. Webdev, webapps, languages, courses, and information. List is a WIP so some items like the top links will not work as of yet.
  
  
 
