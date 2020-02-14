@@ -28,8 +28,8 @@ The Odin Project is an open source, free learning resource that is top tier for 
 
 Css and Sass
 ---
-CSS stands for Cascading Style Sheets, perhaps the only programming language with a name that actual gives information on what it does besides HTML. Sass supercharges css with mixins, variables (although vanilla css does now include variables), and imports. Overall, there isn't really a reason to NOT use sass. It just makes styling projects so much more convenient and enjoyable.
-https://developer.mozilla.org/en-US/docs/Web/CSS
+CSS stands for Cascading Style Sheets, perhaps the only programming language with a name that actual gives information on what it does besides HTML. Sass supercharges css with mixins, variables (although vanilla css does now include variables), and imports. Overall, there isn't really a reason to NOT use sass. It just makes styling projects so much more convenient and enjoyable.  
+https://developer.mozilla.org/en-US/docs/Web/CSS  
 https://sass-lang.com/
 
 CSS Frameworks
